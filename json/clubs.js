@@ -1,5 +1,6 @@
 var clubs = [
     {
+        "grb": "https://vignette2.wikia.nocookie.net/logopedia/images/0/0e/Barcelona.png/revision/latest?cb=20161111145150",
       "key": "barcelona",
       "name": "Barcelona",
       "code": "BAR"
