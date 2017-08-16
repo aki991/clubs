@@ -1,103 +1,122 @@
 [
     {
         "grb": "https://vignette2.wikia.nocookie.net/logopedia/images/0/0e/Barcelona.png/revision/latest?cb=20161111145150",
-      "key": "barcelona",
-      "name": "Barcelona",
-      "code": "BAR"
+        "key": "barcelona",
+        "name": "Barcelona",
+        "code": "BAR"
     },
     {
-      "key": "espanyol",
-      "name": "Espanyol",
-      "code": "ESP"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Rcd_espanyol_logo.svg/708px-Rcd_espanyol_logo.svg.png",
+        "key": "espanyol",
+        "name": "Espanyol",
+        "code": "ESP"
     },
     {
-      "key": "madrid",
-      "name": "R. Madrid",
-      "code": "RMD"
+        "grb": "http://www.fotolip.com/wp-content/uploads/2016/05/Real-Madrid-Logo-2.png",
+        "key": "madrid",
+        "name": "R. Madrid",
+        "code": "RMD"
     },
     {
-      "key": "atletico",
-      "name": "Atlético",
-      "code": "ATL"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Atletico_Madrid_logo.svg/800px-Atletico_Madrid_logo.svg.png",
+        "key": "atletico",
+        "name": "Atlético",
+        "code": "ATL"
     },
     {
-      "key": "getafe",
-      "name": "Getafe",
-      "code": "GET"
+        "grb": "http://logodatabases.com/wp-content/uploads/2012/03/getafe-cf-logo.png",
+        "key": "getafe",
+        "name": "Getafe",
+        "code": "GET"
     },
     {
-      "key": "sevilla",
-      "name": "Sevilla",
-      "code": "SEV"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/8/86/Sevilla_cf_200px.png",
+        "key": "sevilla",
+        "name": "Sevilla",
+        "code": "SEV"
     },
     {
-      "key": "valencia",
-      "name": "Valencia",
-      "code": "VAL"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/812px-Valenciacf.svg.png",
+        "key": "valencia",
+        "name": "Valencia",
+        "code": "VAL"
     },
     {
-      "key": "levante",
-      "name": "Levante",
-      "code": "LEV"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg",
+        "key": "levante",
+        "name": "Levante",
+        "code": "LEV"
     },
     {
-      "key": "malaga",
-      "name": "Málaga",
-      "code": "MAG"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/M%C3%A1laga_CF.svg/1200px-M%C3%A1laga_CF.svg.png",
+        "key": "malaga",
+        "name": "Málaga",
+        "code": "MAG"
     },
     {
-      "key": "athletic",
-      "name": "Athletic",
-      "code": "ATH"
+        "grb": "http://www.basquesoccerfriendly.com/wp-content/uploads/2015/04/Athletic-Bilbao-FC-Logo.png",
+        "key": "athletic",
+        "name": "Athletic",
+        "code": "ATH"
     },
     {
-      "key": "celta",
-      "name": "Celta",
-      "code": "CEL"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/577px-RC_Celta_de_Vigo_logo.svg.png",
+        "key": "celta",
+        "name": "Celta",
+        "code": "CEL"
     },
     {
-      "key": "realsociedad",
-      "name": "R. Sociedad",
-      "code": "RSO"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+        "key": "realsociedad",
+        "name": "R. Sociedad",
+        "code": "RSO"
     },
     {
-      "key": "deportivo",
-      "name": "Deportivo",
-      "code": "DEP"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/RC_Deportivo_La_Coru%C3%B1a_logo.svg/926px-RC_Deportivo_La_Coru%C3%B1a_logo.svg.png",
+        "key": "deportivo",
+        "name": "Deportivo",
+        "code": "DEP"
     },
     {
-      "key": "eibar",
-      "name": "Eibar",
-      "code": null
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/SD_Eibar_logo.svg/653px-SD_Eibar_logo.svg.png",
+        "key": "eibar",
+        "name": "Eibar",
+        "code": "SDE"
     },
     {
-      "key": "betis",
-      "name": "Betis",
-      "code": "BET"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1247px-Real_betis_logo.svg.png",
+        "key": "betis",
+        "name": "Betis",
+        "code": "BET"
     },
     {
-      "key": "laspalmas",
-      "name": "Las Palmas",
-      "code": null
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/594px-UD_Las_Palmas_logo.svg.png",
+        "key": "laspalmas",
+        "name": "Las Palmas",
+        "code": "LPL"
     },
     {
-      "key": "villareal",
-      "name": "Villarreal CF",
-      "code": "VLL"
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Villarreal_CF_logo.svg/822px-Villarreal_CF_logo.svg.png",
+        "key": "villareal",
+        "name": "Villarreal CF",
+        "code": "VLL"
     },
     {
-      "key": "alaves",
-      "name": "Alavés",
-      "code": null
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Deportivo_Alaves_logo.svg/1280px-Deportivo_Alaves_logo.svg.png",
+        "key": "alaves",
+        "name": "Alavés",
+        "code": "ALV"
     },
     {
-      "key": "girona",
-      "name": "Girona",
-      "code": null
+        "grb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/For_article_Girona_FC.svg/772px-For_article_Girona_FC.svg.png",
+        "key": "girona",
+        "name": "Girona",
+        "code": "GIR"
     },
     {
-      "key": "leganes",
-      "name": "Club Deportivo Leganés",
-      "code": null
+        "grb": "https://d1fy1ym40biffm.cloudfront.net/images/logos/teams/48d7f13f2869e6a9e9e58be5367e19c1780666c4dd7cc9d72f2a3f18b0aa10e9.png",
+        "key": "leganes",
+        "name": "Deportivo Leganés",
+        "code": "CDL"
     }
 ]
